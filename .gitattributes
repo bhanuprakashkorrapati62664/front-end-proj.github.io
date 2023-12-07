@@ -1,6 +1,4 @@
-*.webp filter=lfs diff=lfs merge=lfs -text
-*.jpeg filter=lfs diff=lfs merge=lfs -text
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc3c06e59fa3b15d0d25ef7bf7a2fd986509392ac9fed9476600a7d6ad8c9fcb
+size 293
 *.mp4 filter=lfs diff=lfs merge=lfs -text
-*.html filter=lfs diff=lfs merge=lfs -text
-*.css filter=lfs diff=lfs merge=lfs -text
-*.m4a filter=lfs diff=lfs merge=lfs -text
